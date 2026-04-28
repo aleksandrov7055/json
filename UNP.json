@@ -19,5 +19,12 @@
         "address": "Гродненская область, 231400 г. Новогрудок, ул. Свердлова, 38а",
         "bank_name": "ОАО \"Белгазпромбанк\"",
         "bank_code": "OLMPBY2X"
+    },
+    "111111111": {
+        "name": "ghj,j",
+        "account": "nan",
+        "address": "45",
+        "bank_name": "nan",
+        "bank_code": "nan"
     }
 }
