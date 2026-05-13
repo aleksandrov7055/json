@@ -8,10 +8,10 @@
     },
     "192790734": {
         "name": "ИП Александров К.С.",
-        "account": "Люблю тебя",
-        "address": "Моя Родная девочка",
-        "bank_name": "Целую",
-        "bank_code": "Обнимаю"
+        "account": "nan",
+        "address": "nan",
+        "bank_name": "nan",
+        "bank_code": "nan"
     },
     "500301707": {
         "name": "Совместное Белорусско-Израильское предприятие \"Леор Пластик\" общество с ограниченной ответственностью",
@@ -26,5 +26,159 @@
         "address": "nan",
         "bank_name": "ОАО \"АСБ Беларусбанк\"",
         "bank_code": "AKBBBY2X"
+    },
+    "400500641": {
+        "name": "nan",
+        "account": "BY20OLMP30128000055740000933",
+        "address": "nan",
+        "bank_name": "ОАО \"Белгазпромбанк\"",
+        "bank_code": "OLMPBY2X"
+    },
+    "193083105": {
+        "name": "nan",
+        "account": "BY76SLAN30122909200000100000",
+        "address": "nan",
+        "bank_name": "ЗАО \"Банк ВТБ\"",
+        "bank_code": "SLANBY22"
+    },
+    "192643343": {
+        "name": "nan",
+        "account": "BY36BLBB30120192643343001001",
+        "address": "nan",
+        "bank_name": "ОАО «Белинвестбанк», г. Минск",
+        "bank_code": "BLBBBY2X"
+    },
+    "192124747": {
+        "name": "nan",
+        "account": "BY45PJCB30120343031000000933 (BYN)",
+        "address": "nan",
+        "bank_name": "ОАО «Приорбанк», ЦБУ 114,",
+        "bank_code": "PJCBBY2X"
+    },
+    "190351221": {
+        "name": "nan",
+        "account": "BY82AKBB30120000046775200000",
+        "address": "nan",
+        "bank_name": "ОАО «АСБ Беларусбанк»",
+        "bank_code": "AKBBBY2Х"
+    },
+    "190735715": {
+        "name": "nan",
+        "account": "BY45PJCB30120370191000000933",
+        "address": "nan",
+        "bank_name": "ОАО «Приорбанк», ЦБУ 100 г. Минск ул. Радиальная,38А",
+        "bank_code": "PJCBBY2X"
+    },
+    "700169328": {
+        "name": "nan",
+        "account": "BY10BLBB36320700169328001001",
+        "address": "nan",
+        "bank_name": "ОАО «Белинвестбанк»",
+        "bank_code": "BLBBBY2X"
+    },
+    "791106683": {
+        "name": "nan",
+        "account": "BY34AKBB30120000139190000000",
+        "address": "nan",
+        "bank_name": "ОАО Головного офиса “АСБ Беларусбанк”",
+        "bank_code": "AKBBBY2X"
+    },
+    "691993078": {
+        "name": "nan",
+        "account": "BY97ALFA30122A74980010270000",
+        "address": "nan",
+        "bank_name": "ЗАО «Альфа-Банк» г. Минск, ул. Сурганова, 43,",
+        "bank_code": "ALFABY2X"
+    },
+    "100693551": {
+        "name": "nan",
+        "account": "BY30BAPB3012Q108200100000000",
+        "address": "nan",
+        "bank_name": "ОАО\"Белагропромбанк\"",
+        "bank_code": "BAPBBY2X"
+    },
+    "102366829": {
+        "name": "nan",
+        "account": "BY70BPSB30121069990159330000",
+        "address": "nan",
+        "bank_name": "Центр развития малого бизнеса № 745 ОАО «Сбер Банк»",
+        "bank_code": "BPSBBY2X"
+    },
+    "600097385": {
+        "name": "nan",
+        "account": "BY94AKBB36040605020766000000",
+        "address": "nan",
+        "bank_name": "ЦБУ 605 ОАО «АСБ Беларусбанк»",
+        "bank_code": "AKBBBY2X"
+    },
+    "300989756": {
+        "name": "nan",
+        "account": "BY75BAPB30122150300120000000",
+        "address": "nan",
+        "bank_name": "ОАО «Белагропромбанк»",
+        "bank_code": "BAPBBY2X"
+    },
+    "100041411": {
+        "name": "nan",
+        "account": "BY98 BLBB 3012 0100 0414 1100 1001",
+        "address": "nan",
+        "bank_name": "ОАО «Белинвестбанк» по г. Минску и Минской обл.",
+        "bank_code": "BLBBBY2X"
+    },
+    "193965422": {
+        "name": "nan",
+        "account": "BY73 ALFA 3012 2J41 1000 1027 0000",
+        "address": "nan",
+        "bank_name": "ЗАО \"Альфа-Банк\"",
+        "bank_code": "ALFABY2X"
+    },
+    "390317118": {
+        "name": "nan",
+        "account": "BY75PJCB 3012 2004 5110 0000 0933",
+        "address": "nan",
+        "bank_name": "ОАО «Приорбанк»",
+        "bank_code": "PJCBBY2X"
+    },
+    "690349276": {
+        "name": "nan",
+        "account": "BY17AKBB30150606005096000000",
+        "address": "nan",
+        "bank_name": "АСБ «Беларусбанк»",
+        "bank_code": "AKBBBY2X"
+    },
+    "100048311": {
+        "name": "nan",
+        "account": "BY18BPSB30121079010159330000",
+        "address": "nan",
+        "bank_name": "Дополнительный офис №701 на ул.Чкалова ОАО «Сбер Банк», г.Минск",
+        "bank_code": "BPSBBY2X"
+    },
+    "192578120": {
+        "name": "nan",
+        "account": "BY07TECN30125866000130000000",
+        "address": "nan",
+        "bank_name": "ОАО «Технобанк» РКЦ №3",
+        "bank_code": "TECNBY22"
+    },
+    "193139217": {
+        "name": "nan",
+        "account": "BY78ALFA30122392220010270000",
+        "address": "nan",
+        "bank_name": "ЗАО \"Альфа-Банк\"",
+        "bank_code": "ALFABY2X"
+    },
+    "200274520": {
+        "name": "nan",
+        "account": "BY59AKBB30127203394061000000",
+        "address": "nan",
+        "bank_name": "ОАО \"Сбер Банк\" г. Брест",
+        "bank_code": "BPSBBY2X"
+    },
+    "100122726": {
+        "name": "nan",
+        "account": "BY69BLBB30110100122726211001",
+        "address": "nan",
+        "bank_name": "в ЦБУ 535 ОАО «Белинвестбанк» г. Минск",
+        "bank_code": "BLBBBY2X"
     }
 }
